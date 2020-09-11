@@ -1,4 +1,5 @@
 # Nike_project
+![NIKE_LOGO.png](NIKE_LOGO.png)
 # Group Members
 Auchal Azad, Shandy Zhen Fung, Jingyu Ge, Ronas Khanal,
 Chen Liu, Liza Muzashvili, Estefania Rodas, Seok-hyun Whang
@@ -8,6 +9,7 @@ Chen Liu, Liza Muzashvili, Estefania Rodas, Seok-hyun Whang
 # SEGMENT ANALYSIS
 - Brand Equity - “Just Do It”
 - Subsidiaries  - Cole Haan,  Converse,  Hurley,  Nike Golf,  Umbro
+![BRANDS.png](BRANDS.png)
 - Tailor-made products
 # SUPPLY CHAIN MANAGEMENT
 Manufacturer
@@ -17,6 +19,7 @@ Only focus on core business,
 outsourcing production.
 - Outsourcing 
 Cheap labor abroad.
+![MAP.png](MAP.png)
 # SUPPLY CHAIN MANAGEMENT
 - Distributor
 
@@ -44,3 +47,5 @@ Nike collaborated with Apollo Global Management LLC. to increase revenue and all
 
 ## Presentation
 https://drive.google.com/file/d/1uhs3g3nmIIaoigz186LH0zGSDfiS9ZtT/view?usp=sharing
+
+![NIKE_SLOGAN.png](NIKE_SLOGAN.png)
